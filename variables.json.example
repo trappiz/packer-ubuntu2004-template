@@ -1,0 +1,14 @@
+{
+	"vcenter_server": 	"vcenter.foobar.com",
+	"vcenter_username": 	"foo@bar.com",
+	"password": 	        "t0ps3cr37",
+	"template_name": 	"ubuntu2004-template-harden",
+	"datastore": 		"datastore-001",
+	"folder": 		"folder",
+	"cluster": 		"cluster",
+	"datacenter": 		"foobar",
+	"template_network": 	"network-001",
+	"iso_path": 		"path/to/iso",
+	"packer_bastion_host": 	"",
+	"packer_bastion_key": 	""
+}
