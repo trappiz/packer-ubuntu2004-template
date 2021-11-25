@@ -1,6 +1,6 @@
 # packer-ubuntu2004-template
 
-This template is hardend and prepared for units vault login.  
+This template results in a hardend VMware template of ubuntu 20.04.  
 
 Copy variables.json.example to variables.json and build!
 
